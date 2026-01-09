@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "logo",
+      "description": "The Type Ace logo, a stylized keyboard icon.",
+      "imageUrl": "https://images.unsplash.com/photo-1763136469632-f6d78a9d3f4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxrZXlib2FyZCUyMGxvZ298ZW58MHx8fHwxNzY3ODgzODg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "keyboard logo"
+    }
+  ]
+}
