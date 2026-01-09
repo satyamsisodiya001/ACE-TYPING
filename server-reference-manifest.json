@@ -1,4 +1,21 @@
 {
-  "node": {},
-  "edge": {}
+  "node": {
+    "408e3612ef828d0c19970f674ce84afb42d64576c1": {
+      "workers": {
+        "app/lessons/page": {
+          "moduleId": "[project]/.next-internal/server/app/lessons/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/personalized-typing-lessons.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "generatePersonalizedLesson",
+          "filename": "src/ai/flows/personalized-typing-lessons.ts"
+        }
+      },
+      "layer": {
+        "app/lessons/page": "action-browser"
+      },
+      "filename": "src/ai/flows/personalized-typing-lessons.ts",
+      "exportedName": "generatePersonalizedLesson"
+    }
+  },
+  "edge": {},
+  "encryptionKey": "Wzd/ohOxlwfOSUzVqi95+HdBu2QeFBDy7o+Fk0eVc0Q="
 }
